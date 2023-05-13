@@ -1,0 +1,3622 @@
+fileFormatVersion: 2
+guid: 8bc4c95e38b774446afc097eb58b5152
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 144
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3c78c190356884aa0406b12d31ce79
+      internalID: 1673490729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 641
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb766571a3c484983e6b1bec42004b
+      internalID: -1516272798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 713
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393d4eae500ac044f950acea9a6aae9a
+      internalID: -523968264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 713
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c1ad41ec1668843b613ea63a706bd8
+      internalID: 910592031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 713
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa58decf1ca4ca478d002d4add55e24
+      internalID: -425487595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 713
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce3dd0c511716499ad05a8f4c99824
+      internalID: 842259560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 713
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9431addcf5d2f0040862ed2460a39c8b
+      internalID: 292241276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 713
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d586b5677968c349a688acfa46eea23
+      internalID: 1106890373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 705
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9bb6c12e028c4fb53c14143c78393
+      internalID: -412566630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 705
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64858827ee30724580342501114e8b8
+      internalID: 1190903299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 705
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fd30d51f7f0f04fb3537c61e688be3
+      internalID: 281084466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 705
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4cea82b5e3fe843a4ce4d41a63bb6f
+      internalID: 1760723578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 705
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded484e01955474468f455e87b1bf762
+      internalID: 1785168401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 705
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cae9bdb55e05f4d980baf3e2aed592
+      internalID: -1412854692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 676
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36926b4fecaba1b4b8a7ff4cccba28e3
+      internalID: 1286488682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 640
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d181a8c65b1334fb205f58237ef398
+      internalID: -73636291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 677
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857129121aa67e41a4b06b165057968
+      internalID: -1316778599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 643
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb16023420701e4b9c7ac49a569e8b4
+      internalID: -538449995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 640
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424eb271b166e584899482e4efaf5284
+      internalID: -1963217503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 640
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d674fe68022ee4681000aa07250746
+      internalID: 1601885037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 633
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6349fe8c26f3da24c89b4ab6c39e89bf
+      internalID: -1811045092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 561
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da03dd052a8f2b4fadcb7f2cce09aec
+      internalID: -1417791312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 633
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eebdb4e38af19428a841d04a04227a
+      internalID: 773394148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 633
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d368106db54d45a486559b97d5cb0
+      internalID: 783130120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 633
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f618ce74530b9488dec7596345b7da
+      internalID: 1500721138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 633
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10657a9463c20649b48fae812f26490
+      internalID: 183863471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 625
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc31a350ead7ad042a62e8461f1f42a2
+      internalID: 610202866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 625
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c23721ad707d7b4aa9448de816f16c1
+      internalID: 1505117863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 625
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b693bae3b388ecb458e539f08f1e29ad
+      internalID: -1419767499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 625
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda17466829af994c9d58506804e0e98
+      internalID: -214020214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 625
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88088e8a2701d0840b609c1179dba95d
+      internalID: -1740951443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 625
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945fbd6e4a7a8848b355c0a4dac83d7
+      internalID: 786057305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 596
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57207c879dd42b45bd08799ad5c8374
+      internalID: 996615139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 560
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e361c20a470be4a84e0151957cedee
+      internalID: 2030414879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 603
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e908bdf8abf8a14cb44555268064d51
+      internalID: 267139743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 563
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c14fc938cfa24747aa02975b096db0e
+      internalID: 488316013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c5619fcc2083d4c8e2c1eee26e7cdf
+      internalID: 640902503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 560
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf0f73b843d8b4090a6a437b105129
+      internalID: 8524200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 553
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b6e0c5fd0a784f84e4b00e6b40087
+      internalID: -631097287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 481
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bd70c1b6a3f274d8094a749b9f81d0
+      internalID: 2147236437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 553
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c56b16fb29794fa9e758eb1d9ffcf
+      internalID: 1148804900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 553
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb7d7bc73094a4f85b0992d652d499
+      internalID: -1779329513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 553
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1fc6f0b74860546a8c560edc5f51fe
+      internalID: -1485654666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_43
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 553
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c9243d380da34a857bd22a196f510
+      internalID: -670089981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 553
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe065a94c7d584f4f85b3086f396f73d
+      internalID: -1508423021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_45
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 545
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cacb29a9174fc549bd59170bf3a5cd2
+      internalID: 1956895223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 545
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284f7aaf1ddecfe43a9a66c50b0585e7
+      internalID: -185682356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 545
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e889caad1b67744a8b089a8aeafbac0
+      internalID: 2048041053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 545
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9ae3faeaa8f746a2b0c9f3035cbd9
+      internalID: -162993196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_49
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 545
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b0935bfc88d64f8c32ad4f8f9dd31
+      internalID: -372929520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_50
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 545
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d19d3932120ee844a8dd618ea20be4a
+      internalID: 1267166317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25cb2f494fb4de49aef274e577d0da3
+      internalID: -403384402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e855deb595214dbb97ebf3aa4598f
+      internalID: 1448476395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_53
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 514
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdffbf36d0c76e049848973f8e650f98
+      internalID: 415934191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 483
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bfe0b14093ab2409117b849221a1ee
+      internalID: 1185843432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 480
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce383904e6ee194a89b5181dfd71e0a
+      internalID: -533908580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 480
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be77e45c6c00c644a924e1ad5531a7a
+      internalID: -465738047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_57
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 473
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95da1b2f6276d444b8195a4ec1cf1204
+      internalID: -1187776704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 144
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467fcd2e9d51a6e40907e8d150f206d4
+      internalID: 518529184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_59
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 400
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6430a8b575b404590e7201220ec703
+      internalID: 432179396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_60
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 473
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ccd47a0b482da49ae3b032224a0c33
+      internalID: 736113875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_61
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 473
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c5837799adfee4e84781afe895d1b3
+      internalID: -1629209727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_62
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 473
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04f2f984afd64a4e8a208be37f83675
+      internalID: 717678530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_63
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 473
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b39ee3c163c0478b4e1fb301944f7
+      internalID: -1278741364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 465
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190cdfa5ab67442418b15c220a6c66e4
+      internalID: 591282514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_65
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 465
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c5154c2cb75e14e8e84ea676ed0f5d
+      internalID: -1249614748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 465
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd799ab85df03649ac6ce9073be812c
+      internalID: -242059266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_67
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 465
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b22e58d24a254f91ac072f1726b51
+      internalID: -294054319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_68
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 465
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e6c5094e63b240afad87682d26acb
+      internalID: -2097188257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_69
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 465
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8bd37e0382bdf45812674d75c40967
+      internalID: -1930385593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab515ffdebc8ed44896df9458f6fd9fe
+      internalID: -1522262004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 400
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61683d16736769143976617916de9a2f
+      internalID: 2043381295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 400
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8705abc983eaf4daf6197c52112bf8
+      internalID: 1663822271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_73
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 437
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4c14b6871aeec43a2855ad7f213db3
+      internalID: 1558263635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab62c3548119534ca4c37658c5786aa
+      internalID: -1989976570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997fe8de5a10bea4d91cbe4691cf2aa4
+      internalID: 1610787136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 393
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645d9313024a5de4ba575063509d011e
+      internalID: 398419420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 321
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be0d056a4402ae4a8ebe526d18e65d5
+      internalID: 1280766065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 393
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaad1aa5519c4741a60133bab6a04b1
+      internalID: 1123468804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_79
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 393
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6e69eb1b3e7534b9e38abbe2fb30d5
+      internalID: 783506996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 393
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d13e01ad087a74582f3d8e321fb719
+      internalID: -1947652773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_81
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 393
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc12bc4f579ebf4f8562ce6247bf2b0
+      internalID: -1281876243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_82
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac47d8a359f81e4db568b61ba3e904c
+      internalID: -1366447776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_83
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 385
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c669807133a54439ea74269506fcbb
+      internalID: 28645949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 385
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fbebf602f8498478cd6def00cceac5
+      internalID: 554462194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_85
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 385
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272e29dd07063d4c9254dd4644132b2
+      internalID: -875237444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_86
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 385
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918fdb371d206c64baea30bf8cf7ba23
+      internalID: 1339207595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_87
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 385
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84cc3e0595f5743ab1e662a35d51b6
+      internalID: 985783102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a32384757f7f649973b6eb0bf0d7f9
+      internalID: -2006871498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 320
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69fc93a2905014794cbc6437e1f043
+      internalID: 1340253195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 320
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9592895338873146b389c68445eb2d6
+      internalID: 1940784415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_91
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 359
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559f3cec1571ac4f950f3d82bd5d035
+      internalID: 2067764546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 323
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083ce148d810d184c943afad1b2ab76c
+      internalID: 1864470016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae88c414841924aaa928f5fb31f953
+      internalID: 2127089386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_94
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 321
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe8eb94b0ae8b340ba4d948d11b32b7
+      internalID: -104758129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_95
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 240
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507d322ad42761428277ee0dd015de6
+      internalID: 31420445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_96
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 313
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b549b4ba5b604ab8180c3a3ae0790
+      internalID: -1552887295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_97
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 313
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbeaee3af837cc4484b227bebb13837
+      internalID: -1122902570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_98
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 313
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d63f9dfa3bee8448c4211b4486e591
+      internalID: -1227326883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_99
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 313
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e5bd5d8baad8044b6e39d2a69e2d2c
+      internalID: -2049946880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_100
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 313
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f17c1b4c21e194282d77811fb4d3e6
+      internalID: 427904503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_101
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 313
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77b7492c36ffb841afc2704f3ec1c5c
+      internalID: 697407167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_102
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 305
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea4572a2d37f07449c94874dac01056
+      internalID: -410092715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_103
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 305
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a79a0d8362c84491b5876c0d8aa36
+      internalID: 649846186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_104
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 305
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952401e7c9c5c3489ad18a8606ad4b2
+      internalID: 1462558020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_105
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 305
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514d56c7155a5a04994883fa9807970e
+      internalID: 1882137740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_106
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 305
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d111cbbe0efa6964baa0b3828c1099c7
+      internalID: -1310314146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_107
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 305
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f7059f987ec694e8df8dc1ed75c598
+      internalID: 726005362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d890661e3292fd45b2081ea15924ec2
+      internalID: -745749477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c834bd7488a549ba3b9b3e79f63ff
+      internalID: -1407103018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_110
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 275
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023bcf608efe311408324efe50b0951a
+      internalID: 1013512205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 243
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a013e3e0aa1f4a8277ed1519e2669
+      internalID: 101594446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198bbb99005aa3b478ce700893c6e423
+      internalID: -416232673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_113
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 240
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7832916b8afaf34cba46c1df8dce099
+      internalID: 1727878282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_114
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 240
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ec3d0d26ec084b89c2dd6d4c7bcdf
+      internalID: -741577364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 163
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e618d60c7ec2a0147baa3367a742c062
+      internalID: 969543288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5115a989e19f61940820042c478d1579
+      internalID: -734673261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91e35855aa25084f9cfa826d6fa3d65
+      internalID: -39177265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_118
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 160
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112658fecf38e684a829cf36962b28a1
+      internalID: -144783342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 144
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feafcaf7d04fc3043a882c0b308ca2ed
+      internalID: 944606834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_120
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8fe5deafa28c48a4a8bf18d4fc314
+      internalID: 884414100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_121
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e6e7519b9c514f88ce8bb716411dc
+      internalID: 2000731303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_122
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0fdf46568847c47aa5decf714328fb
+      internalID: 1178210347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_123
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b703de5078528334a9f05a773d17635b
+      internalID: -1172653687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_124
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e5106cf2462a74aa0b25c6dc0a3640
+      internalID: -701774454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_125
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2af15a78e8caa14db483ee995b57020
+      internalID: 2112669436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_126
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 145
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02bfacff9a09784d98956784ef5049a
+      internalID: -725245543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_127
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 145
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b8444c83af1b44e914dddde93f8742
+      internalID: 871667169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_128
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 145
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaffe54d69d9ea342959d1b4c0623621
+      internalID: -160235598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_129
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 145
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43bcadfab8c9f244b7fee396e1f0dcf
+      internalID: 2017463783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_130
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 145
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeebc7ed95dbf3540b8288f7fb7f5b88
+      internalID: -1030355800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_131
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 145
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543ad1e798a889b48a5087641893c30b
+      internalID: -308707391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_132
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486871f408f569c4ba353bdfea58e23a
+      internalID: 1804612845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_133
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5892ce8e4cd124c95c55f456a2dfcf
+      internalID: -196747961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_134
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 81
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aedfbe3477d2748989535649d60c5d
+      internalID: -1365466525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_135
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 118
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc06ffbe8743c44d810a7a8557db937
+      internalID: 1693593373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 82
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee0365511df894990da3016b780077
+      internalID: 1171709769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_137
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 80
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dde4a00e25d8743bab19e6ea8a9054
+      internalID: 1492226513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_138
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa5a7c6bbb5fd4e9e427d23c554e37
+      internalID: 807654255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_139
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 74
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28198499b88157e49be2ef8964e4077f
+      internalID: 763247058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_140
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0936b5374b61534aa6ba59d3ba41c4d
+      internalID: -1235313995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 74
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208b5a9e9899e8346bf9494735a8f9fe
+      internalID: 653628574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_142
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 74
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62bee5ae4a4fd843b1a18b4d1d386a8
+      internalID: -1606869896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 74
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46d6197a55c6d46bc9f7455741cf5d
+      internalID: -1667723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_144
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 74
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d090fc2d06878864b811700e8e52e9e4
+      internalID: 379485262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_145
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79117573b65efe41a74dffd88bcc5bc
+      internalID: -2104405403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_146
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc9939e0a5b5045a0f2467377b1157
+      internalID: -920834439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_147
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9ee287d7cadd4cb6d5b6cd3bb8c86
+      internalID: 325148067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_148
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c97225781603b44796963fd97b2cac4
+      internalID: -85824705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_149
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d0488df9982640ba0b8a5d9aacbbf
+      internalID: -675282001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_150
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026d03b56d90e0a47b65238149f757c3
+      internalID: -887561055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd1d6b7a1a041340ac2b54b3dc4faa9
+      internalID: 1509102921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_152
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573034abda09a44398e7e234b260f3d
+      internalID: -276557606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_153
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a1465932ce634ab5f0de7cdd5331f
+      internalID: -2122414358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_154
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 36
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a2b6a46c5750745ad99b14cdd4cb33
+      internalID: 1053595246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_155
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290b01f154319d4eb4730bdd8a485d9
+      internalID: 1684863274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_156
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b675434e09c4b34bba75b3759ddc1dd
+      internalID: 42723764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Fruit Trees_157
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9fdf0e16622b74bab70b4eb3cf5a93
+      internalID: -1797212029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Fruit Trees_155: 1684863274
+      PC Computer - Stardew Valley - Fruit Trees_150: -887561055
+      PC Computer - Stardew Valley - Fruit Trees_117: -39177265
+      PC Computer - Stardew Valley - Fruit Trees_37: 8524200
+      PC Computer - Stardew Valley - Fruit Trees_92: 1864470016
+      PC Computer - Stardew Valley - Fruit Trees_45: 1956895223
+      PC Computer - Stardew Valley - Fruit Trees_70: -1522262004
+      PC Computer - Stardew Valley - Fruit Trees_88: -2006871498
+      PC Computer - Stardew Valley - Fruit Trees_129: 2017463783
+      PC Computer - Stardew Valley - Fruit Trees_69: -1930385593
+      PC Computer - Stardew Valley - Fruit Trees_23: 783130120
+      PC Computer - Stardew Valley - Fruit Trees_106: -1310314146
+      PC Computer - Stardew Valley - Fruit Trees_102: -410092715
+      PC Computer - Stardew Valley - Fruit Trees_50: 1267166317
+      PC Computer - Stardew Valley - Fruit Trees_154: 1053595246
+      PC Computer - Stardew Valley - Fruit Trees_35: 488316013
+      PC Computer - Stardew Valley - Fruit Trees_29: -214020214
+      PC Computer - Stardew Valley - Fruit Trees_18: -1963217503
+      PC Computer - Stardew Valley - Fruit Trees_112: -416232673
+      PC Computer - Stardew Valley - Fruit Trees_55: -533908580
+      PC Computer - Stardew Valley - Fruit Trees_118: -144783342
+      PC Computer - Stardew Valley - Fruit Trees_107: 726005362
+      PC Computer - Stardew Valley - Fruit Trees_144: 379485262
+      PC Computer - Stardew Valley - Fruit Trees_13: -1412854692
+      PC Computer - Stardew Valley - Fruit Trees_25: 183863471
+      PC Computer - Stardew Valley - Fruit Trees_39: 2147236437
+      PC Computer - Stardew Valley - Fruit Trees_94: -104758129
+      PC Computer - Stardew Valley - Fruit Trees_66: -242059266
+      PC Computer - Stardew Valley - Fruit Trees_105: 1882137740
+      PC Computer - Stardew Valley - Fruit Trees_6: 292241276
+      PC Computer - Stardew Valley - Fruit Trees_9: 1190903299
+      PC Computer - Stardew Valley - Fruit Trees_93: 2127089386
+      PC Computer - Stardew Valley - Fruit Trees_131: -308707391
+      PC Computer - Stardew Valley - Fruit Trees_91: 2067764546
+      PC Computer - Stardew Valley - Fruit Trees_103: 649846186
+      PC Computer - Stardew Valley - Fruit Trees_86: 1339207595
+      PC Computer - Stardew Valley - Fruit Trees_4: -425487595
+      PC Computer - Stardew Valley - Fruit Trees_101: 697407167
+      PC Computer - Stardew Valley - Fruit Trees_142: -1606869896
+      PC Computer - Stardew Valley - Fruit Trees_98: -1227326883
+      PC Computer - Stardew Valley - Fruit Trees_54: 1185843432
+      PC Computer - Stardew Valley - Fruit Trees_134: -1365466525
+      PC Computer - Stardew Valley - Fruit Trees_67: -294054319
+      PC Computer - Stardew Valley - Fruit Trees_143: -1667723091
+      PC Computer - Stardew Valley - Fruit Trees_14: 1286488682
+      PC Computer - Stardew Valley - Fruit Trees_21: -1417791312
+      PC Computer - Stardew Valley - Fruit Trees_46: -185682356
+      PC Computer - Stardew Valley - Fruit Trees_74: -1989976570
+      PC Computer - Stardew Valley - Fruit Trees_77: 1280766065
+      PC Computer - Stardew Valley - Fruit Trees_31: 786057305
+      PC Computer - Stardew Valley - Fruit Trees_125: 2112669436
+      PC Computer - Stardew Valley - Fruit Trees_72: 1663822271
+      PC Computer - Stardew Valley - Fruit Trees_89: 1340253195
+      PC Computer - Stardew Valley - Fruit Trees_80: -1947652773
+      PC Computer - Stardew Valley - Fruit Trees_32: 996615139
+      PC Computer - Stardew Valley - Fruit Trees_87: 985783102
+      PC Computer - Stardew Valley - Fruit Trees_111: 101594446
+      PC Computer - Stardew Valley - Fruit Trees_24: 1500721138
+      PC Computer - Stardew Valley - Fruit Trees_60: 736113875
+      PC Computer - Stardew Valley - Fruit Trees_149: -675282001
+      PC Computer - Stardew Valley - Fruit Trees_114: -741577364
+      PC Computer - Stardew Valley - Fruit Trees_115: 969543288
+      PC Computer - Stardew Valley - Fruit Trees_75: 1610787136
+      PC Computer - Stardew Valley - Fruit Trees_136: 1171709769
+      PC Computer - Stardew Valley - Fruit Trees_148: -85824705
+      PC Computer - Stardew Valley - Fruit Trees_104: 1462558020
+      PC Computer - Stardew Valley - Fruit Trees_63: -1278741364
+      PC Computer - Stardew Valley - Fruit Trees_147: 325148067
+      PC Computer - Stardew Valley - Fruit Trees_119: 944606834
+      PC Computer - Stardew Valley - Fruit Trees_68: -2097188257
+      PC Computer - Stardew Valley - Fruit Trees_122: 1178210347
+      PC Computer - Stardew Valley - Fruit Trees_5: 842259560
+      PC Computer - Stardew Valley - Fruit Trees_157: -1797212029
+      PC Computer - Stardew Valley - Fruit Trees_140: -1235313995
+      PC Computer - Stardew Valley - Fruit Trees_36: 640902503
+      PC Computer - Stardew Valley - Fruit Trees_3: 910592031
+      PC Computer - Stardew Valley - Fruit Trees_22: 773394148
+      PC Computer - Stardew Valley - Fruit Trees_11: 1760723578
+      PC Computer - Stardew Valley - Fruit Trees_38: -631097287
+      PC Computer - Stardew Valley - Fruit Trees_133: -196747961
+      PC Computer - Stardew Valley - Fruit Trees_51: -403384402
+      PC Computer - Stardew Valley - Fruit Trees_53: 415934191
+      PC Computer - Stardew Valley - Fruit Trees_100: 427904503
+      PC Computer - Stardew Valley - Fruit Trees_130: -1030355800
+      PC Computer - Stardew Valley - Fruit Trees_156: 42723764
+      PC Computer - Stardew Valley - Fruit Trees_82: -1366447776
+      PC Computer - Stardew Valley - Fruit Trees_8: -412566630
+      PC Computer - Stardew Valley - Fruit Trees_137: 1492226513
+      PC Computer - Stardew Valley - Fruit Trees_84: 554462194
+      PC Computer - Stardew Valley - Fruit Trees_10: 281084466
+      PC Computer - Stardew Valley - Fruit Trees_124: -701774454
+      PC Computer - Stardew Valley - Fruit Trees_109: -1407103018
+      PC Computer - Stardew Valley - Fruit Trees_76: 398419420
+      PC Computer - Stardew Valley - Fruit Trees_128: -160235598
+      PC Computer - Stardew Valley - Fruit Trees_121: 2000731303
+      PC Computer - Stardew Valley - Fruit Trees_40: 1148804900
+      PC Computer - Stardew Valley - Fruit Trees_151: 1509102921
+      PC Computer - Stardew Valley - Fruit Trees_27: 1505117863
+      PC Computer - Stardew Valley - Fruit Trees_28: -1419767499
+      PC Computer - Stardew Valley - Fruit Trees_71: 2043381295
+      PC Computer - Stardew Valley - Fruit Trees_81: -1281876243
+      PC Computer - Stardew Valley - Fruit Trees_139: 763247058
+      PC Computer - Stardew Valley - Fruit Trees_123: -1172653687
+      PC Computer - Stardew Valley - Fruit Trees_16: -1316778599
+      PC Computer - Stardew Valley - Fruit Trees_26: 610202866
+      PC Computer - Stardew Valley - Fruit Trees_138: 807654255
+      PC Computer - Stardew Valley - Fruit Trees_141: 653628574
+      PC Computer - Stardew Valley - Fruit Trees_132: 1804612845
+      PC Computer - Stardew Valley - Fruit Trees_7: 1106890373
+      PC Computer - Stardew Valley - Fruit Trees_19: 1601885037
+      PC Computer - Stardew Valley - Fruit Trees_61: -1629209727
+      PC Computer - Stardew Valley - Fruit Trees_95: 31420445
+      PC Computer - Stardew Valley - Fruit Trees_20: -1811045092
+      PC Computer - Stardew Valley - Fruit Trees_127: 871667169
+      PC Computer - Stardew Valley - Fruit Trees_0: 1673490729
+      PC Computer - Stardew Valley - Fruit Trees_110: 1013512205
+      PC Computer - Stardew Valley - Fruit Trees_15: -73636291
+      PC Computer - Stardew Valley - Fruit Trees_49: -372929520
+      PC Computer - Stardew Valley - Fruit Trees_57: -1187776704
+      PC Computer - Stardew Valley - Fruit Trees_44: -1508423021
+      PC Computer - Stardew Valley - Fruit Trees_2: -523968264
+      PC Computer - Stardew Valley - Fruit Trees_96: -1552887295
+      PC Computer - Stardew Valley - Fruit Trees_56: -465738047
+      PC Computer - Stardew Valley - Fruit Trees_126: -725245543
+      PC Computer - Stardew Valley - Fruit Trees_135: 1693593373
+      PC Computer - Stardew Valley - Fruit Trees_153: -2122414358
+      PC Computer - Stardew Valley - Fruit Trees_152: -276557606
+      PC Computer - Stardew Valley - Fruit Trees_1: -1516272798
+      PC Computer - Stardew Valley - Fruit Trees_146: -920834439
+      PC Computer - Stardew Valley - Fruit Trees_52: 1448476395
+      PC Computer - Stardew Valley - Fruit Trees_48: -162993196
+      PC Computer - Stardew Valley - Fruit Trees_59: 432179396
+      PC Computer - Stardew Valley - Fruit Trees_34: 267139743
+      PC Computer - Stardew Valley - Fruit Trees_17: -538449995
+      PC Computer - Stardew Valley - Fruit Trees_73: 1558263635
+      PC Computer - Stardew Valley - Fruit Trees_97: -1122902570
+      PC Computer - Stardew Valley - Fruit Trees_41: -1779329513
+      PC Computer - Stardew Valley - Fruit Trees_113: 1727878282
+      PC Computer - Stardew Valley - Fruit Trees_42: -1485654666
+      PC Computer - Stardew Valley - Fruit Trees_79: 783506996
+      PC Computer - Stardew Valley - Fruit Trees_90: 1940784415
+      PC Computer - Stardew Valley - Fruit Trees_65: -1249614748
+      PC Computer - Stardew Valley - Fruit Trees_64: 591282514
+      PC Computer - Stardew Valley - Fruit Trees_85: -875237444
+      PC Computer - Stardew Valley - Fruit Trees_99: -2049946880
+      PC Computer - Stardew Valley - Fruit Trees_145: -2104405403
+      PC Computer - Stardew Valley - Fruit Trees_83: 28645949
+      PC Computer - Stardew Valley - Fruit Trees_78: 1123468804
+      PC Computer - Stardew Valley - Fruit Trees_33: 2030414879
+      PC Computer - Stardew Valley - Fruit Trees_58: 518529184
+      PC Computer - Stardew Valley - Fruit Trees_108: -745749477
+      PC Computer - Stardew Valley - Fruit Trees_12: 1785168401
+      PC Computer - Stardew Valley - Fruit Trees_47: 2048041053
+      PC Computer - Stardew Valley - Fruit Trees_62: 717678530
+      PC Computer - Stardew Valley - Fruit Trees_116: -734673261
+      PC Computer - Stardew Valley - Fruit Trees_120: 884414100
+      PC Computer - Stardew Valley - Fruit Trees_30: -1740951443
+      PC Computer - Stardew Valley - Fruit Trees_43: -670089981
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

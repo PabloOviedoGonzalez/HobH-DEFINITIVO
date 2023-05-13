@@ -1,0 +1,5118 @@
+fileFormatVersion: 2
+guid: 919de9f9a50666d41924e93e719d227e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539e37f1f7e7c2e4db02613847ec2e83
+      internalID: 1745609531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 241
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39283bb9ee266042aeca802180676e8
+      internalID: -1851599887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 242
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0521efdbfc2a94e8f5fe08c21ee489
+      internalID: -1261709157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 243
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c0cc068b896a42ae5bd85d9c12500
+      internalID: 2115902837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 242
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eaa13b640a0564b9d7dda0ddbcbda3
+      internalID: -73789231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8aafb15cb4d01428abbe5c450ccfc2
+      internalID: -2138485618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 241
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31068fef348dde9468f78d40baa27e0a
+      internalID: 1961000977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 241
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf8f931ea70e74fad119fa2fc07acb
+      internalID: -598785173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 242
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a6fae322f18045bce2cf498f432e7
+      internalID: -1806090065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb84587cf9a97cf42a7f61ab50af6570
+      internalID: -1270851709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b50ac10a9a65649a3a7b79eb9e205b
+      internalID: -701430239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 241
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898620b3b83b504e88daf2c0123c24f
+      internalID: 1547926672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc698e70fecfd4241a49c0e5217cb511
+      internalID: -652900943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 241
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0180e530b6a7c1a4c965a92932c26221
+      internalID: 1602811556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 241
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b679b92fbc913a438d48e571d0ab9f0
+      internalID: 1792742238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f7a2654595963418b7bfc2e741e368
+      internalID: 1738752948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 228
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cce26f95963cd4da07d85d3c73dd9c
+      internalID: 1428780864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 228
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec28b53528b98419cf4e689f5adef8
+      internalID: -1908217179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 227
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a6f4f5f00ed54791bf00e962e773b
+      internalID: -1782729067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb1291a56fcac45b84fd388552ab0c
+      internalID: -1614893439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 228
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d74dd6a058ba49bdfab3a9143dbd8
+      internalID: 1684647107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 228
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182a46d7f1eaf544b622dca37f0b9a7
+      internalID: 2105495893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 227
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0515b251e69c438f3bdaf8f41f9b7
+      internalID: 789230515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 227
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb52897761fc648b359225c70b3915
+      internalID: 506380856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 227
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45b70e3747610e409965c116ba860f4
+      internalID: 1003843768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 227
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca50619589740f43baf255d6b6af7f2
+      internalID: 1838148514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 227
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaccaf0abbf7254e97e65f3a49376c8
+      internalID: 1145252800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 227
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0773d097564fb448600127b520f6d0
+      internalID: 1729587844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 227
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7ef0e8caaeed649a45aa8f0d5d4985
+      internalID: 1184761289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 227
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab92a563ff81c6c49a674f799106e3ee
+      internalID: -1885294311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 226
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d4b6948fa9f9446bd23a1b1a95abbb
+      internalID: -1240966422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 211
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc657305daaefd449e870a121f414bf
+      internalID: 1664059412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 211
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6315ef24b4c143870a331ec53c9a0
+      internalID: -390541323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004767d7f668ceb478d769d6a35209cd
+      internalID: 369080430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 210
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb3abb86603974d90232ab3c5309e8
+      internalID: -1946507501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 211
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d6d8bf575eca4f8fde1a86d278c29
+      internalID: -1947582463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca118f5976e766148b8962bc96bae099
+      internalID: 1746343698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 211
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f6917f54f0674981d839dcee0b501
+      internalID: -152821835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 210
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38770989b80e9a445993274da846b0fb
+      internalID: -1846601697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df106ac86b8e194e84d4ec099481af6
+      internalID: -343740896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 210
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fcf3ca28a148f4c93c5cb28ffa82c2
+      internalID: 796908632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea942b69a39ac5e4d9104a3f92e2aa75
+      internalID: -188325564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 208
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5669faac6fe8745409461d93ba9b5c71
+      internalID: 596544788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 208
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c955ef8e3bd8c943b46eb7e129fff7b
+      internalID: 1690496673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 211
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665a80379e37fbc48886fcca90fa0eb3
+      internalID: 58382974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 211
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9885cbf66f58c42a82513e40b7d793
+      internalID: 1793640209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ef3b8a08cd3d4f954a04436c5f1c7
+      internalID: -1307045554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c13fe5daf6c33e47b5db0257f4a9e6c
+      internalID: -1629818751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba390d1977f8d3b4fb601cf4f40c7fa7
+      internalID: 1147428308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 195
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea813f5fc8f864c8b807c4dfe0bdb4
+      internalID: 340719735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcd915b11a515a4ca8b948494194624
+      internalID: -1085370382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1169b5243e279164481b5f3f76a8a491
+      internalID: -926207011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001596b7286d14f4da8eb8d148affca1
+      internalID: -85950513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da7be45d934f042a562d5b2d7c8f0d
+      internalID: -600772754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e73bc966f12a9e47b884d6b04aa6f4f
+      internalID: -1075145617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b821bf9e9a42147a2ec9d289e80d84
+      internalID: 1574875176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8db67ad4707404e96bb46dc1d16811
+      internalID: 1780235171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a513b0ff1e3777469e9eca13dac0b14
+      internalID: -125030148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2f27bcf1f83b44aa7b33cfad105cbb
+      internalID: 1137293327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f9f9b3c46ca04fa5f65f1046b02d4
+      internalID: -798720769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c5bf59c9684174fac34753b99e585a
+      internalID: -299702634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6b9940c73d844f95d9d4741eaeef6
+      internalID: -1452854988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a1fa11d019b3f44a878fd1c287ea9b
+      internalID: 44614762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6577be0ea269b0b43859d962ae1b3163
+      internalID: 724701777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36906bf1ab55c724c8c2cbecaf3bfcf9
+      internalID: 2046332523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0240c101fde924ba4be83bfa3a77cc
+      internalID: -727526575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 177
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679f345c90394a4893dccfcf7bd27d4
+      internalID: 1908929235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8518b6036698e574598cc91f6dfe5fe7
+      internalID: 1209968801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ab791c61e60ef449c3e0f56954058b
+      internalID: 2082576838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_69
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 178
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4059c8ed080ece74e9bbc4ae35ab6ccc
+      internalID: -489169119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85fb444bb9a5448892d1b151e79377
+      internalID: 1077642165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160ee7da5da101f48bfc3fc237a67bea
+      internalID: -201895149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d05edd003cce44a470a6559d95ed6
+      internalID: -1591669821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 176
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9960d418b52c041b24eb777eb8c725
+      internalID: -954303668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_74
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 176
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b69abc1d825c94fa9c9fdf22c1d87f
+      internalID: 2136575300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_75
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 176
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6e74ea0fac06946a9f837c8c536161
+      internalID: -885129989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dc797134ec8f944b1259e8b5910666
+      internalID: -1728503192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cecbb78924d7f64ebf6fa214027c48d
+      internalID: -126319174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a6541e9556b64ab6d165b45191805
+      internalID: 322963543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33723004000524848bace384445d2161
+      internalID: 1347421491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5de29090225b834abd2bfaa467eedc3
+      internalID: 411457517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_81
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 160
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f099062fc3124292403ff1ca3294d
+      internalID: 721909080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5f7b979a362e47997d8a624cfd208
+      internalID: 159786257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a6eb5675750b42a4670a99b0d529f
+      internalID: -1604177786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc2beee7dc36864f97523e9b237200f
+      internalID: -30062687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 161
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e4ffa73ea5f4848804ee113a256592
+      internalID: -1056290898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_86
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bbce0843305e3409ff1654cc5ad9ed
+      internalID: 544180983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af029fefd89523a4b8cd31d8bf69c125
+      internalID: -284537053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9190a9442cf6d4e86c809226794968
+      internalID: 1171892485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea041c4a0cdb6634898588f891a05472
+      internalID: -255960105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cfc0bcc05aa344cbd9927c7b27f69a
+      internalID: -1526953166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef2a91d3156a964d9876dd1d92d956d
+      internalID: 1223269599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fed1c1428c10794386d44a5361b1fbf
+      internalID: -1952255618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0421af81437ba4149af85bb9c638af97
+      internalID: -1024534011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf065adb32f58a47b7297b399b56c38
+      internalID: 1198820416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fa90f9bc11fc04892c487bd2f57eb0
+      internalID: 1866942198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473ad5bfa1723e64ba8f9e6d337b18c8
+      internalID: -1142366630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2d4b3466171d24bbea544d7dc7578c
+      internalID: 1233101550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48df540f648e46d4fb8b0cc0f2795998
+      internalID: -2030770978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3d48e30161e340aa0457a8057342d
+      internalID: -1030368431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a2c627491a48b4281685a0b4093eea
+      internalID: -85114539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3263dba6d8f00f45822792ac9993294
+      internalID: -118790143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec508a06c2472a469b519007d9b643f
+      internalID: -1289063012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c823fbd5a30a33459ffda7516616ddf
+      internalID: 724452361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a08ee19451846499f0d55c57dadc73
+      internalID: 1926196298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd03ddbb66e505c4f8ec7d1c3968181b
+      internalID: -709489414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1d2befbc6d4b458055844f4167f10
+      internalID: -2087945157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca23ef3177cb8d4bb91a22145c028bd
+      internalID: -1418413353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_108
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e6e2c188098f429ea8bf374c47b79
+      internalID: 123917339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c5ab91bb4e4c4eabad9f84c345921
+      internalID: 1464290370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_110
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727b8a0772d9dd4e8c2114be58847d6
+      internalID: 58135980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4229f7393bb5b14599e22ca803f28a4
+      internalID: -1618277815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_112
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 128
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2858492900c08547ba7eb4ba994a98e
+      internalID: -796775852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e50397c2070db4ebefa990d43683ae
+      internalID: -1480711188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_114
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 130
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390f6a1e032ab0e44846efd81da5982e
+      internalID: 270719938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_115
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2681dee8cc201684dbcef0f34afea3b8
+      internalID: 1426225923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_116
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6ff9d9ccabb954abb19debe77f8b1d
+      internalID: 1276421742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_117
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5ef86240123a945bab093630491416
+      internalID: -1518944623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9672526b313c849a53eb16c488e5d3
+      internalID: 1651083283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_119
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1005c003fbcf8754cbdc171ded956e51
+      internalID: -994677920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c0f134968e1d94fb15b4b2596dbc9e
+      internalID: 2014643616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33180bb3bfa0939489bda7daaf92852d
+      internalID: 456540910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_122
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ed16e0df18fb945923bcd9f9534c4a
+      internalID: -2067321123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 112
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb0a958b612214e985ae451caa8b47
+      internalID: 398163765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_124
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 112
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984800a5ae68d7648bf0f6302f276cf0
+      internalID: -1911260323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_125
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39cfdb474d24294ab344a8a96870198
+      internalID: 73231874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_126
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d5ed125b80df146be1aa5e276614a4
+      internalID: -902665372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_127
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f8175969cab843beba68e440c1966
+      internalID: 1588222244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_128
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3af071b4db2c744abf4b8fa86672f7
+      internalID: 1294332407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_129
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 112
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c86c15a683e7b42ba7aba839a7bc9b
+      internalID: 640993924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_130
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39116f6ffa581644f91fc36f6f6e1409
+      internalID: 1220417741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_131
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad2e3ae6f296c548aa05eafe9815e55
+      internalID: 1415354191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9fdcaebccbce94b82ebcaa3314e3f1
+      internalID: 2016419827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7366e6bf0f60d449427dbf2bc1a30b
+      internalID: -1316718672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f51a4cae94fcf343b8134e875252e33
+      internalID: 82152032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c240bc4cfbc134c99b2f1eef19cc82
+      internalID: -899177775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_136
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab751bec47a5974c903da174ed72d07
+      internalID: -1282721733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_137
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d845c3898024c40901ecb59dc906ec
+      internalID: -2054121239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_138
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0318be7bc5e3a8548a3799d0550ce7a0
+      internalID: 460883921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_139
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc938723233f14f41be1091c75ea4c0e
+      internalID: -1628909524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_140
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932434daa3a29644e8624ee072557ff1
+      internalID: -1400304994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ff86c3b642cc4cb4b543fd9410e3a
+      internalID: 530007788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_142
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62da519644779f46815c9506744da64
+      internalID: 673895260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d3057713af4eb42afc330f487c79e2
+      internalID: 1776879418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_144
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f69dfb175bc4f24f887120de7af889c
+      internalID: 65920127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c10be78fddd5c044aba0e75795383b7
+      internalID: 34263284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b04ef5de94fc643808da14422e2fbc
+      internalID: 1491747870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af807aab12766409c8ef929ae8b948
+      internalID: 1943349908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aba621cee7f44741805c8411cd1bfb9
+      internalID: -248679321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_149
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf2c149b40d5a44a293e08bc70f91a
+      internalID: 1605723631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852ac09f7df15942bc306f529ea8192
+      internalID: 274626271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861f767dc83dfe4c9d1d851ddf7e0ce
+      internalID: 1467375148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_152
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120950366b08404d9ec724b0d9daf1c
+      internalID: -1765606456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beff785754cc9714a9ef38cdcddd818e
+      internalID: -946506108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_154
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265257cc7037ea245a0fea15ad468d2d
+      internalID: 1945543958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a962debe9be8b7458097064d1ecc0ec
+      internalID: 859702016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_156
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15da4137e3322d48bb2496230e98727
+      internalID: 1893094646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_157
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b07bf768e50f6479804950e6983550
+      internalID: 770059368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_158
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 81
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931714079612374abaf95e4b5aa65cc
+      internalID: 237146087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_159
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5317bc663c76b4aba8c298d668a091
+      internalID: -192584244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_160
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086fb32f2947c3048be2cd8181c2eaed
+      internalID: 484527154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_161
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 81
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c879956c008a94ba3c8d1e078e30a2
+      internalID: -482969515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_162
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc203d0cb779fba4c931b75171d8b7a2
+      internalID: 930152611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1a9a1ff6331384ca52f2d64bcb8f21
+      internalID: -1290336881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_164
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8241b91ba29d1e248bad614672917808
+      internalID: 218439997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_165
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a180188d3f15f49ab6441484d1b19d
+      internalID: 1308636903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_166
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef955dac9ed1ac64ca75bd6f53f5b7c8
+      internalID: -999610218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_167
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347714090e02b694f8717eef894dee39
+      internalID: 2003279324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_168
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a2148221a911847b21e825dc70240c
+      internalID: 1793992763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_169
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed50af105288144cbe28e3446cefe55
+      internalID: 420039529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_170
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa3a56c6674b794c99378b91a50648c
+      internalID: 1713238745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_171
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01866c57ffa046840aa96837ee82a8cb
+      internalID: 1286733577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e3f580fd0c304884ec641115a6e6c
+      internalID: -2064303407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_173
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 64
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6f51d5473f1294580a58840732253c
+      internalID: -1759557023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_174
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c40d5c0c399b04e91f3fd4ff0f8e9f
+      internalID: -1165398521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_175
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd457814630c4a49a42f43b81e972b4
+      internalID: -619164925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_176
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f2e9749a65c5b4f87555f312046d89
+      internalID: 33987753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637bfc9a554cd0d4b8936660e31ed4d2
+      internalID: 1338219946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d194f487ef459624c963903aece66c98
+      internalID: 1160313301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_179
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b78389d929b2c45978a5f973e1a749
+      internalID: 161207736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_180
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a214182a712e83a42a6f10fa39ca012a
+      internalID: 1175164772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_181
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028259a63d14e054aa780c4343c0fb14
+      internalID: -567476883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_182
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d92a806e27e7e48a12b9e81b6c9838
+      internalID: -540182593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_183
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbafc95a4e7f4294aad062038e98158b
+      internalID: -628607598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_184
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386b425f8e6c5ca419635cd9f39b038e
+      internalID: -697428651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_185
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3932505acd9faa42ad062138efaf19d
+      internalID: -169682381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_186
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a32856d77c7ea45ba140e35f752855
+      internalID: -953189565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_187
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54383ef226b723040b62146827788e05
+      internalID: 1173813817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_188
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f039c654cf5c249943286915e52a2a
+      internalID: 1424559668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_189
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673831b2f5848d408d20da93a19be57
+      internalID: 1325236775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_190
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 34
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f7e8b6eddd58438169fdf2f9cb0b6
+      internalID: 882919345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_191
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfd2a6f0306b646894de6c9276a1ad
+      internalID: 1747248533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecbdeffd78cc894c81ccf23663fd782
+      internalID: -983754123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_193
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a4323a6e0374e4ba04aa7d5822a392
+      internalID: -1056628359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f8adba63d10b1418199762c9dcce0c
+      internalID: 184213269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_195
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6b5d4c9cd73344493d2c9ec27e4941
+      internalID: -1886567883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0dd1926c792542b556faf427ce241
+      internalID: -919447847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44232f44258cfaa47a42c51780e5fa52
+      internalID: 1002026045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220a3e75ac070a4aaefb4669ed8b0ad
+      internalID: -366519290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_199
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da9468bc9fefa941b21b9bb422c262c
+      internalID: -416556603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_200
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64385705e69304b49b0b2841d4a83ce6
+      internalID: -594201656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_201
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05774b9a65ede1244836160faa51b415
+      internalID: 747334696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c54927efcc7f46b599eea29ab9a42
+      internalID: 971841376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39bb070eff2394c8437f7222b00334
+      internalID: 424675439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_204
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd589c4763a1e94bbae38316358ce3b
+      internalID: 1558916723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_205
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0019f2981c4578b49a6b956c5779bfcd
+      internalID: 1292429537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_206
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a8ca9d7098e24aa4c22874d8df8c6
+      internalID: 845502559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_207
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b2cca51ae54b46a8e637b12f8a2bc
+      internalID: -1325257725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_208
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb4cef0f14349249a6201daf20897aa
+      internalID: 1017032128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_209
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49259295631446e41939ec10d0de2887
+      internalID: -1760438190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_210
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cfbec1adbc47941b48d19c462145fa
+      internalID: 1835961477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_211
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6dcca97442284384e854e6a63ef14
+      internalID: 247742227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_212
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a61f2be54234049b2580d7888bd5b6
+      internalID: -211909430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_213
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4b4b2edef5414fb0c3e7b976439a0
+      internalID: 1987076947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e211b46a88aa498186986544d5b73
+      internalID: 784571211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_215
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c6e3f54f96234ab6c1f98b3c520a0
+      internalID: 1480287631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_216
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0666560622e6b4c919ff83bab8bbe8
+      internalID: -71982152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_217
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7db86ab89ac9545bd8befa0c955e6a
+      internalID: -552925832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_218
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c65bc5466259349906fe7a5917df17
+      internalID: -1540862166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_219
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc570b25b9db94e92a82536d0ca4d3
+      internalID: -1019376200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_220
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276da6e9a906c54bab2b14f65945752
+      internalID: -1689667465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_221
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b8c245f97dad64b9196e9d9999245c
+      internalID: -231970672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_222
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89314ed546bef2f44bf9f68c8920841d
+      internalID: 234470944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_223
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b8b057517da043be500ee797c4690
+      internalID: -2083763608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_224
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24156ed802895c64bbe1d6b5846a37b9
+      internalID: -322877379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Tactics Ogre Let Us Cling Together - Weapons_225
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc3a3addadf8644794ba00de79bbe7c
+      internalID: -325941598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_179: 161207736
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_13: 1602811556
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_68: 2082576838
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_149: 1605723631
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_157: 770059368
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_134: 82152032
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_175: -619164925
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_36: 1746343698
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_54: -1075145617
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_0: 1745609531
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_108: 123917339
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_219: -1019376200
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_66: 1908929235
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_146: 1491747870
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_153: -946506108
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_143: 1776879418
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_46: -1307045554
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_83: -1604177786
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_187: 1173813817
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_160: 484527154
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_155: 859702016
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_72: -1591669821
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_203: 424675439
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_1: -1851599887
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_90: -1526953166
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_223: -2083763608
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_221: -231970672
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_180: 1175164772
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_107: -1418413353
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_191: 1747248533
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_184: -697428651
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_87: -284537053
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_8: -1806090065
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_152: -1765606456
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_7: -598785173
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_55: 1574875176
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_73: -954303668
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_207: -1325257725
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_215: 1480287631
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_21: 2105495893
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_3: 2115902837
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_131: 1415354191
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_78: 322963543
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_98: -2030770978
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_117: -1518944623
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_105: -709489414
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_40: 796908632
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_163: -1290336881
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_161: -482969515
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_64: 2046332523
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_53: -600772754
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_103: 724452361
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_137: -2054121239
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_142: 673895260
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_31: 1664059412
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_2: -1261709157
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_51: -926207011
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_15: 1738752948
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_111: -1618277815
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_14: 1792742238
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_48: 1147428308
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_79: 1347421491
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_144: 65920127
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_135: -899177775
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_178: 1160313301
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_59: -798720769
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_189: 1325236775
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_28: 1184761289
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_124: -1911260323
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_209: -1760438190
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_222: 234470944
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_26: 1145252800
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_5: -2138485618
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_176: 33987753
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_49: 340719735
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_201: 747334696
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_77: -126319174
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_166: -999610218
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_37: -152821835
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_192: -983754123
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_18: -1782729067
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_133: -1316718672
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_85: -1056290898
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_139: -1628909524
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_125: 73231874
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_199: -416556603
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_30: -1240966422
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_204: 1558916723
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_172: -2064303407
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_194: 184213269
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_218: -1540862166
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_74: 2136575300
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_110: 58135980
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_138: 460883921
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_38: -1846601697
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_86: 544180983
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_12: -652900943
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_132: 2016419827
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_206: 845502559
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_196: -919447847
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_50: -1085370382
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_10: -701430239
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_162: 930152611
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_159: -192584244
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_141: 530007788
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_167: 2003279324
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_214: 784571211
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_95: 1866942198
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_129: 640993924
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_154: 1945543958
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_33: 369080430
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_80: 411457517
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_158: 237146087
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_99: -1030368431
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_121: 456540910
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_170: 1713238745
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_181: -567476883
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_205: 1292429537
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_188: 1424559668
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_197: 1002026045
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_114: 270719938
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_17: -1908217179
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_19: -1614893439
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_22: 789230515
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_61: -1452854988
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_171: 1286733577
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_57: -125030148
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_140: -1400304994
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_116: 1276421742
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_52: -85950513
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_195: -1886567883
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_96: -1142366630
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_109: 1464290370
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_127: 1588222244
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_115: 1426225923
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_92: -1952255618
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_104: 1926196298
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_224: -322877379
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_123: 398163765
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_169: 420039529
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_174: -1165398521
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_27: 1729587844
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_70: 1077642165
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_182: -540182593
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_11: 1547926672
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_89: -255960105
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_156: 1893094646
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_118: 1651083283
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_106: -2087945157
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_35: -1947582463
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_183: -628607598
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_71: -201895149
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_47: -1629818751
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_75: -885129989
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_220: -1689667465
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_76: -1728503192
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_62: 44614762
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_112: -796775852
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_20: 1684647107
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_136: -1282721733
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_69: -489169119
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_32: -390541323
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_173: -1759557023
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_88: 1171892485
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_119: -994677920
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_150: 274626271
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_193: -1056628359
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_56: 1780235171
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_42: 596544788
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_100: -85114539
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_151: 1467375148
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_43: 1690496673
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_29: -1885294311
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_6: 1961000977
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_186: -953189565
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_24: 1003843768
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_63: 724701777
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_94: 1198820416
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_177: 1338219946
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_126: -902665372
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_25: 1838148514
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_122: -2067321123
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_147: 1943349908
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_97: 1233101550
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_212: -211909430
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_130: 1220417741
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_190: 882919345
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_208: 1017032128
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_91: 1223269599
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_128: 1294332407
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_120: 2014643616
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_34: -1946507501
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_102: -1289063012
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_217: -552925832
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_225: -325941598
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_39: -343740896
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_82: 159786257
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_185: -169682381
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_45: 1793640209
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_81: 721909080
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_41: -188325564
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_4: -73789231
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_67: 1209968801
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_113: -1480711188
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_202: 971841376
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_16: 1428780864
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_216: -71982152
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_84: -30062687
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_101: -118790143
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_164: 218439997
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_200: -594201656
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_65: -727526575
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_44: 58382974
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_60: -299702634
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_210: 1835961477
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_211: 247742227
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_145: 34263284
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_148: -248679321
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_213: 1987076947
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_198: -366519290
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_93: -1024534011
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_23: 506380856
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_165: 1308636903
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_58: 1137293327
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_9: -1270851709
+      PSP - Tactics Ogre Let Us Cling Together - Weapons_168: 1793992763
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

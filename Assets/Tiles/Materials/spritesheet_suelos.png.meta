@@ -1,0 +1,2542 @@
+fileFormatVersion: 2
+guid: 1d640b708e57ea04a96fa18af88de907
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_suelos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f40b9c1feb3eeb4bbfc25a5edee6955
+      internalID: -814784167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261e70886bafb941973aa5a234e8087
+      internalID: 212627533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5d42fe34cbe54691451436e352076
+      internalID: -1112808710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5930573ba3ad4dabfd185b01e10e5
+      internalID: -1797796287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c541db7193204997822d6200a8978
+      internalID: -363221316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a456658dc7d3d4f949fb9aaa392273
+      internalID: -299597915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fea4140fa036384ebff4a0ac0606737
+      internalID: 1046367470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a2681857f0014d99e76e406d5a90d
+      internalID: 2135194607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f812697854e064289571a71e223ff9
+      internalID: 2102586383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea059e2bba489042882f3951cd00ac3
+      internalID: 1081127438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d60aa4ac7dc4ef459bdfb911374456c
+      internalID: 274156969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dccd2e59e7740478278c84bf40cae5
+      internalID: 1266025205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88aace565b9034d81ae7047f25d6c2
+      internalID: -1619735854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 516.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5c0d3e480af34bb64bce9dcbc088d
+      internalID: 1842270774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc13be6a6658fb7448e8f95eb76b4670
+      internalID: -484803558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e227a69daeb44ebfdcc8d3f8eb17b
+      internalID: 659194741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f049dee940ee448c3d2dd4b72920f
+      internalID: 1119034576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a789cd17be7544a9fbd4035625330
+      internalID: -446446240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aba5480800b81e448c58461def840df
+      internalID: 448124144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff6c60d24ebbc843911fa2b9e3886d3
+      internalID: -516003029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d24246b27bfce447bd349d82f190d27
+      internalID: -1440407673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c2fabe8bda742479c7e716b4696e45
+      internalID: 862603619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ea5667597f314489d89a8fd2f309b
+      internalID: -1276022907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d385d1a78977340afc0707d1377c5f
+      internalID: 1628513924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293836be6496dbd45afe7904d6105323
+      internalID: 225623336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52281416c345cd4f99144eeec2d9223
+      internalID: -1947503716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711bcfdb3e8d7254283ad45cb21a73c9
+      internalID: -1936346103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 452.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bcda2baaee50c4eb1ed7fbf83135fa
+      internalID: 1826150870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c549cc19c7c45d4595a5c14190b2aac
+      internalID: 841351049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23504a9bf3301594486535d2c658ba6e
+      internalID: -293111715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0a64f8ddd59b14ca55e2be149de5d5
+      internalID: -1420375036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155b030f42f6594419ba3b0b92c476e2
+      internalID: 3850189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f841119dc8baf5419a43ae3e8c842d3
+      internalID: -1875924061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325e5c2066b4ae54dba370704cc0955f
+      internalID: 2079837332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b352849104a4065429bc21c5873cb8fa
+      internalID: -765660075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eee11c4bf26324e8e18fe815f6107b
+      internalID: 1232164662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d11cc1854de64eacb67549163989c
+      internalID: -497637197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1857f68ce4b584fa1542a01db11009
+      internalID: -1324621668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd46f43e97cc36346a3d9ea0e68ce7cf
+      internalID: -1199830694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8519b04fc3a454594cdf1e677f89b5
+      internalID: 232104878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53e720124b0c4542a0e3bf1de7de746
+      internalID: -1703771982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 388.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a8aa2251986449a2985fbc9b4a99c
+      internalID: 1266978660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95b1e92df47954a8482d27570eddd4
+      internalID: -461588952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66f0aabf31a2da4fbc143ea66c72ab3
+      internalID: 656809758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fff825e0cff3b46b71746f7ce04ff6
+      internalID: -860823852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78094a7c94372744fac93d21c7a4114f
+      internalID: -225985923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb18d38b276db1459d88ff20a8eb231
+      internalID: -1100036877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d9efe78c92d3140903376a52986115
+      internalID: 54284171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a4d63eee559244ea9f3fa7e5fb8d09
+      internalID: 534089433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef97af420adbe7f4aa57da0c465b151b
+      internalID: 223338672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13079a80ac43124e880abf02cdf88ca
+      internalID: -635771877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92945dcd9e082c64d816946bb814e564
+      internalID: -1364693562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1320736dc383c840bbb439184ebc0c3
+      internalID: -1034387909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6cea0163b83844b7f2ecf44f99e86
+      internalID: 1433101399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15672910a0305b1418fce5e5c24f6be7
+      internalID: -836959090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 324.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a595e8bea439c54fa5327045938a810
+      internalID: -2057619835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3b619580cf344469701de61a0a1fd9
+      internalID: -1669218503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240c3912dc72aff45a6389149bb65b06
+      internalID: 562021007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b609fdb8122e074db60f83703ec838c
+      internalID: -1596418724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e265a0c0962a4046862b56b02f37a9d
+      internalID: 1294965790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe07eb62c703d4c9fa79c7ff9f0567
+      internalID: -294410900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07faa833652f5749838c1686d8a2fe7
+      internalID: 1600128921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be281a68a3212a24b9cdcb509c952e01
+      internalID: 1758775307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6900567f8cbd7c3409244211a54052e9
+      internalID: 1283162412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e174e6abef98a42873b5a60d128d0b
+      internalID: 30561422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c0de0f2fe53e541a944c00f0bd7989
+      internalID: -1812709265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86af176138f9ca4086bb974be4e8781
+      internalID: 829406003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af702eb4b1d26429534d60e9aaeb5d
+      internalID: -659502366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14aff421a4abbc419e23ceaac1ad7dd
+      internalID: -1607162414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_69
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 260.44446
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ffdba63e68c2a45b1642503d992396
+      internalID: -2075910119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44720ef713c3d484aa8706debb3b5596
+      internalID: 294869908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facd8b8b94e76484da1491909a472230
+      internalID: -1627000726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a862ddec637b2b49bc60fc678392603
+      internalID: 1935380715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a072236231c2b5498ce5ecf52347657
+      internalID: -1595204326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a45205b540999a4288252b2b3f291a3
+      internalID: -1543341336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537fb6a8e62a292478baae3463add4dd
+      internalID: -463844366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8940d1387480c439f8cce494438aa1
+      internalID: 507258835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a978c6d7568c6541818289782fa7628
+      internalID: 1444250282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5e7a11f0515774984fa73690f879e0
+      internalID: 556876319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5472121b5c8988e48be7915ccd313a64
+      internalID: -1789397248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dbd873bb9292e43a0b75330225aca4
+      internalID: 97474654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_81
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f88be1fba96f541ab0713081c50d64
+      internalID: 1897003933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38c577df51fd3742bcfa28f5954ad30
+      internalID: 597445182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_83
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 196.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a768860cc494a904b8e7b52dedb10f66
+      internalID: 935161175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4348d0f39c37704f9bcd6aaa7f5e707
+      internalID: 1674906464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2479d6645edd0824784502dbc34375e0
+      internalID: 2042893080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241d8bd263e59a4fb534a4fb71f222e
+      internalID: 81632631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56e51f66a076824ba84ac6699152a63
+      internalID: 151998938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4119f5723671ff845ab6472faa9a25d4
+      internalID: -1964546516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46cacd86a86fc5419dfa2defea41aa7
+      internalID: 1256155013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba316aa67fa8db141a27f3c5a6679171
+      internalID: -140725649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed541dadbdc414cb1c5322e6bcad79
+      internalID: -898358065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda702408c9fbf145b28c24676a41434
+      internalID: -1532920246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_93
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4f3e9303f55147a49a9cab75134a6
+      internalID: 2130919434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 132.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106ce9a2d8f32f8498bac19806b0726c
+      internalID: 624064533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b29b7e0538972241b7452254f9c1fdb
+      internalID: 196537352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80ea12232ab57c498cf6fcc0bde0a6c
+      internalID: 1819599496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5762f62de82023d45b9db90d8737a331
+      internalID: 1231049590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 68.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5954edc96145f4baf78358cf33275f
+      internalID: -1557012240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 68.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92e040affe00a4da79ec16cc90006c
+      internalID: -294417628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 68.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8854ee40a4aef4a8fd85c7b9b7fd62
+      internalID: 2108398641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 68.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e917e2fa49d17494c895137bb1287e79
+      internalID: 311022261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_102
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 68.44444
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ec79e12694234780637cb14e2d2fa
+      internalID: 440450495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.4444427
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288daa8f62e435246b1c5fd1dd343fae
+      internalID: -1271490769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4.4444427
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664868d1bac61c94caf265fcbff7ebae
+      internalID: 420966770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4.4444427
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d9b1588c7f8741b07d8d8dd18f767
+      internalID: 2096787675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4.4444427
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7155cbbc02c427945ac98e22a1d60a84
+      internalID: 126399800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4.4444427
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be82d7260c2f093449f15882b0806fa2
+      internalID: -550416128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4.4444427
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8c5eb404b98c4aa61304eb590df46
+      internalID: 1435286839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_suelos_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4.4444427
+        width: 64.14286
+        height: 64.55556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa07eb829a88e6488c571f62e8457e7
+      internalID: -1705442042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spritesheet_suelos_98: -1557012240
+      spritesheet_suelos_35: 1232164662
+      spritesheet_suelos_17: -446446240
+      spritesheet_suelos_54: -836959090
+      spritesheet_suelos_5: -299597915
+      spritesheet_suelos_11: 1266025205
+      spritesheet_suelos_77: 1444250282
+      spritesheet_suelos_69: -2075910119
+      spritesheet_suelos_88: -1964546516
+      spritesheet_suelos_85: 2042893080
+      spritesheet_suelos_67: -659502366
+      spritesheet_suelos_100: 2108398641
+      spritesheet_suelos_73: -1595204326
+      spritesheet_suelos_68: -1607162414
+      spritesheet_suelos_62: 1758775307
+      spritesheet_suelos_82: 597445182
+      spritesheet_suelos_55: -2057619835
+      spritesheet_suelos_51: -1364693562
+      spritesheet_suelos_99: -294417628
+      spritesheet_suelos_15: 659194741
+      spritesheet_suelos_12: -1619735854
+      spritesheet_suelos_72: 1935380715
+      spritesheet_suelos_9: 1081127438
+      spritesheet_suelos_50: -635771877
+      spritesheet_suelos_107: -550416128
+      spritesheet_suelos_24: 225623336
+      spritesheet_suelos_103: -1271490769
+      spritesheet_suelos_70: 294869908
+      spritesheet_suelos_44: -860823852
+      spritesheet_suelos_84: 1674906464
+      spritesheet_suelos_60: -294410900
+      spritesheet_suelos_28: 841351049
+      spritesheet_suelos_106: 126399800
+      spritesheet_suelos_18: 448124144
+      spritesheet_suelos_52: -1034387909
+      spritesheet_suelos_104: 420966770
+      spritesheet_suelos_108: 1435286839
+      spritesheet_suelos_57: 562021007
+      spritesheet_suelos_71: -1627000726
+      spritesheet_suelos_2: -1112808710
+      spritesheet_suelos_4: -363221316
+      spritesheet_suelos_3: -1797796287
+      spritesheet_suelos_66: 829406003
+      spritesheet_suelos_16: 1119034576
+      spritesheet_suelos_1: 212627533
+      spritesheet_suelos_34: -765660075
+      spritesheet_suelos_39: 232104878
+      spritesheet_suelos_81: 1897003933
+      spritesheet_suelos_93: 2130919434
+      spritesheet_suelos_13: 1842270774
+      spritesheet_suelos_86: 81632631
+      spritesheet_suelos_14: -484803558
+      spritesheet_suelos_19: -516003029
+      spritesheet_suelos_75: -463844366
+      spritesheet_suelos_22: -1276022907
+      spritesheet_suelos_90: -140725649
+      spritesheet_suelos_41: 1266978660
+      spritesheet_suelos_36: -497637197
+      spritesheet_suelos_48: 534089433
+      spritesheet_suelos_33: 2079837332
+      spritesheet_suelos_43: 656809758
+      spritesheet_suelos_21: 862603619
+      spritesheet_suelos_102: 440450495
+      spritesheet_suelos_101: 311022261
+      spritesheet_suelos_20: -1440407673
+      spritesheet_suelos_49: 223338672
+      spritesheet_suelos_80: 97474654
+      spritesheet_suelos_10: 274156969
+      spritesheet_suelos_59: 1294965790
+      spritesheet_suelos_105: 2096787675
+      spritesheet_suelos_8: 2102586383
+      spritesheet_suelos_45: -225985923
+      spritesheet_suelos_95: 196537352
+      spritesheet_suelos_46: -1100036877
+      spritesheet_suelos_26: -1936346103
+      spritesheet_suelos_92: -1532920246
+      spritesheet_suelos_61: 1600128921
+      spritesheet_suelos_83: 935161175
+      spritesheet_suelos_25: -1947503716
+      spritesheet_suelos_23: 1628513924
+      spritesheet_suelos_63: 1283162412
+      spritesheet_suelos_27: 1826150870
+      spritesheet_suelos_42: -461588952
+      spritesheet_suelos_96: 1819599496
+      spritesheet_suelos_32: -1875924061
+      spritesheet_suelos_87: 151998938
+      spritesheet_suelos_0: -814784167
+      spritesheet_suelos_37: -1324621668
+      spritesheet_suelos_91: -898358065
+      spritesheet_suelos_74: -1543341336
+      spritesheet_suelos_65: -1812709265
+      spritesheet_suelos_76: 507258835
+      spritesheet_suelos_109: -1705442042
+      spritesheet_suelos_30: -1420375036
+      spritesheet_suelos_97: 1231049590
+      spritesheet_suelos_56: -1669218503
+      spritesheet_suelos_38: -1199830694
+      spritesheet_suelos_94: 624064533
+      spritesheet_suelos_7: 2135194607
+      spritesheet_suelos_58: -1596418724
+      spritesheet_suelos_64: 30561422
+      spritesheet_suelos_79: -1789397248
+      spritesheet_suelos_53: 1433101399
+      spritesheet_suelos_78: 556876319
+      spritesheet_suelos_89: 1256155013
+      spritesheet_suelos_31: 3850189
+      spritesheet_suelos_40: -1703771982
+      spritesheet_suelos_29: -293111715
+      spritesheet_suelos_47: 54284171
+      spritesheet_suelos_6: 1046367470
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
