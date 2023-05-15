@@ -4,22 +4,21 @@ using UnityEngine;
 
 public class PlayerXP : MonoBehaviour
 {
-
-
-
-    public GameObject GameOver;
     [SerializeField] private float Experience;
     [SerializeField] private float Maxexperience;
     [SerializeField] private XPbar xpbar;
 
     private void Start()
     {
+        Maxexperience = 0;
         Experience = Maxexperience;
         xpbar.InicializeExperience(Experience);
     }
     private void Update()
     {
-        if (GameManager.instance.GetEnemyPoints() >= 1)
+        xpbar.enemyPoints = Experience;
+        Maxexperience = Experience;
+        /*if (GameManager.instance.GetEnemyPoints() >= 1)
         {
 
             Experience = Experience *= 2;
@@ -29,7 +28,19 @@ public class PlayerXP : MonoBehaviour
             Debug.Log("HealthMax");
             Experience = Experience += 50;
         }
-
+        */
 
     }
+
+    public void GetExperiencePoints(float ExperiencePoints)
+    {
+        Experience -= ExperiencePoints;
+        xpbar.ChangeExperience(Experience);
+    }
+
+    public float GetExperience()
+    {
+        return Experience;
+    }
+
 }

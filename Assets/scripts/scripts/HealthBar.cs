@@ -25,6 +25,15 @@ public class HealthBar : MonoBehaviour
         slider.value = Health;
     }
 
+    public void ChangeHealthWolf(float HealthWolf)
+    {
+        if (CompareTag("Wolf"))
+        {
+            slider.value = HealthWolf;
+        }
+            
+    }
+
     public void InicializeHealth(float TheHealth)
     {
         ChangeMaxHealth(TheHealth);

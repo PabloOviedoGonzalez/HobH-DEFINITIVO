@@ -755,7 +755,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d87a20432d90414099bf17ff63595d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyPrefab: {fileID: 4073104481877415624, guid: 9a29f11268990b3429fdbe66adc8acca, type: 3}
+  EnemyPrefab: {fileID: 3521294129348625250, guid: 4220e6e716ac8bb4cb437c4eb87c0fb2, type: 3}
   maxTime: 37
   pos: {x: 0, y: 0}
   Enemy: []
@@ -17214,7 +17214,7 @@ GameObject:
   - component: {fileID: 879490275}
   m_Layer: 0
   m_Name: EnemyIA
-  m_TagString: Enemy
+  m_TagString: Wolf
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17320,10 +17320,10 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.006040573}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -17334,7 +17334,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1, y: 0.70400023}
   m_EdgeRadius: 0
 --- !u!50 &879490273
 Rigidbody2D:
@@ -17370,6 +17370,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 100004.35
+  xpbar: {fileID: 0}
   deadMusic: {fileID: 8300000, guid: 3be0d2ff1ff30f743b4207e9f95a13c8, type: 3}
   volumeMusic: 1
 --- !u!95 &879490275
@@ -17479,7 +17480,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 1
+  m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -17507,6 +17508,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af318c44892dfb64a826b341ef9dac11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyPoints: 0
 --- !u!1 &883453700
 GameObject:
   m_ObjectHideFlags: 0
@@ -34094,7 +34096,7 @@ MonoBehaviour:
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 0
-  m_FillAmount: 1
+  m_FillAmount: 0
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
@@ -69630,6 +69632,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GameOver: {fileID: 1371619584}
+  HealthWolf: 50
   Health: 10
   Maxhealth: 30
   healthbar: {fileID: 74595386}
@@ -69645,7 +69648,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ea4d6a8f4e89394c8cc9239b8db5568, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameOver: {fileID: 0}
   Experience: 20
   Maxexperience: 100
   xpbar: {fileID: 879731809}
@@ -72177,7 +72179,7 @@ GameObject:
   - component: {fileID: 2023968462}
   m_Layer: 0
   m_Name: Damage
-  m_TagString: Untagged
+  m_TagString: Wolf
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -72210,6 +72212,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 50
+  damage2: 50
 --- !u!61 &2023968463
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -72223,7 +72226,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.045295984, y: -0.008420885}
+  m_Offset: {x: -0.0015000403, y: -0.008420885}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -72234,7 +72237,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.95209783, y: 0.7293955}
+  m_Size: {x: 1.0396898, y: 0.7293955}
   m_EdgeRadius: 0
 --- !u!1 &2024631671
 GameObject:

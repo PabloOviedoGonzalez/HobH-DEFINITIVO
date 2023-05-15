@@ -7,21 +7,29 @@ public class XPbar : MonoBehaviour
 {
   
     private Slider slider;
-
+    public float enemyPoints;
 
     private void Start()
     {
         slider = GetComponent<Slider>();
     }
 
+    private void update()
+    {
+        
+    }
 
+    public void AddEnemyPoints(float value)
+    {
+        enemyPoints += value;
+    }
 
     public void ChangeMaxexperience(float Maxexperience)
     {
         slider.maxValue = Maxexperience;
     }
 
-    public void Changexperience(float experience)
+    public void ChangeExperience(float experience)
     {
         slider.value = experience;
     }
@@ -29,6 +37,6 @@ public class XPbar : MonoBehaviour
     public void InicializeExperience(float Thexperience)
     {
         ChangeMaxexperience(Thexperience);
-        Changexperience(Thexperience);
+        ChangeExperience(Thexperience);
     }
 }
