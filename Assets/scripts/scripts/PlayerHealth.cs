@@ -5,8 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
-    protected int Health= 30;
+    public GameObject GameOver;
+    [SerializeField] private float Health;
+    [SerializeField] private float Maxhealth;
     //[SerializeField] private int healthofplayer;
+    [SerializeField] private HealthBar healthbar;
+
+    private void Start()
+    {
+        Health = Maxhealth;
+        healthbar.InicializeHealth(Health);
+    }
     private void Update()
     {
         if (GameManager.instance.GetEnemyPoints() >= 1)
@@ -25,13 +34,15 @@ public class PlayerHealth : MonoBehaviour
         //}
     }
 
-    public void GetDamage(int damage)
+    public void GetDamage(float damage)
     {
-        GameManager.instance.Health -= damage;
+        Health -= damage;
+        healthbar.ChangeHealth(Health);
 
-        if (GameManager.instance.Health <= 0)
+        if (Health <= 0)
         {
-            SceneManager.LoadScene("GameOver");
+            Time.timeScale = 0f;
+            GameOver.SetActive(true);
 
         }
     }

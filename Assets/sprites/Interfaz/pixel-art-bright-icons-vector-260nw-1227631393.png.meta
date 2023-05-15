@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: 2618ad7791084e2479e8e621fac80571
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 233
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b666076d380e4092a0f499840e2fe
+      internalID: -335591260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 237
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0315867a113acad438c4aaf0decd9df9
+      internalID: 1973887995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 209
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c819029d961a0948a5ac7e7d20e8494
+      internalID: -1698601232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c7a311514683243926a0261d3f17eb
+      internalID: -1245710079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47b10106f170de4abc6747f0067ba4c
+      internalID: 1237170290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 231
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c22e5c5aa81df41aed089b0a8eb6eb
+      internalID: 578042893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 214
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc7ca39aa6f0df4d93594c0a7aa8bad
+      internalID: 1903212767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 213
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb31e0e765f54941a4c35b7569ac398
+      internalID: 1945043701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb22ec3f2b8644fbf80232bcc1989a
+      internalID: -955678131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 197
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec6e7353a5300e4c9feccf939a596ba
+      internalID: -271041778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 217
+        width: 114
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cd13093ec495546b92b9ebc77526e3
+      internalID: -1533341386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 183
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c1bc8e2b7e63b41a328cb5cd2aad23
+      internalID: -687884927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 185
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598e5588713a7946b4903fbbb09d6ca
+      internalID: 1151259269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 187
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed92f58ee060d5e4e97b4afc4dbc927c
+      internalID: 874046314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 191
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f2525cee8e424458ffb03246a35767
+      internalID: -2129939447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 201
+        width: 114
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4424cd8a9d6a7174c9438d62e0a14091
+      internalID: -1053256353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 163
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f1c5bfe89e224b9d57b18f5868906
+      internalID: -1482677372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 185
+        width: 114
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86472c352c987f4eb2b0ebe126364dd
+      internalID: -1087536450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d400e1ca28963e841b040c32b9b9f3d3
+      internalID: 937097693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 163
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ee3c919945494183c1e53e65ae0c8
+      internalID: -1717753791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20640bb24311ac046a738d2f85015331
+      internalID: -1758153624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 163
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450962f14a3740846a4c61448888b965
+      internalID: -1976563834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 163
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36ccf488780fe40939899b293916e5
+      internalID: -1476183874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 169
+        width: 114
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d78219be5e694aa448a0f4174e5f9
+      internalID: -179480301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 147
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163628f62ea63e4fa9d71e47505c572
+      internalID: 1136967006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 153
+        width: 114
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1671a5adf338764fbe6b9000b64068b
+      internalID: -817984100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 129
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e3e0721178cd48b79dcd1ff9bf9d1
+      internalID: -2125635364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 142
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974c3aa8c94a1c41a2d116af1941d2f
+      internalID: 867908893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 134
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34b587e1e9ef8b4aab48fc520317af1
+      internalID: -1722505854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 133
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6701b15d1eeb3aa4692aee3908549ec3
+      internalID: -1104595519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 137
+        width: 114
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e38bd42b9ff64a9e0e147b5d9dcc4
+      internalID: -2124264276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf79634c906971499883bd5e560941f
+      internalID: -792301205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b44f1ce4120394d8a69b164bb027f1
+      internalID: -1671298804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 109
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ec7fdc30b17841a820d9018bab5ef
+      internalID: -1446586031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 109
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd05c6ff4bea83146b37de998fba5fac
+      internalID: -1926405810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 113
+        width: 96
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ede75bfad60cc4fb3f51a45a2ff779
+      internalID: 915972934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a23881c2ee1b34b82764a9037ae431
+      internalID: -44270924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 81
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf796ad860c336b47b1f630b10cc65e5
+      internalID: 1493909232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 97
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39ca3f225fca34438dc5f0aa2d8a6c5
+      internalID: 564292077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_39
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 71
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb900e6be664ca4db4fb7f0e95c2804
+      internalID: 1126177851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 49
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d9f0cc462e4a409f5634a6fcb42ed
+      internalID: 111658957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 49
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d792f93c853f06946ab623d08b0f558a
+      internalID: 73077655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 81
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaaf89e5425f824682001cdaa57744b
+      internalID: -1699831657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a6e1275f6e464c8e6e265975b849c
+      internalID: 1969378572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 49
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081dc44dead3eae4ca1ca8da1b5b4573
+      internalID: 989850115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 49
+        width: 92
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d44256f25a12f488ef1be1d7be7c38
+      internalID: -855088020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 65
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86270410341d3f94e828749df8a276c6
+      internalID: 1572634498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee3ccf794018574883674d9138a69ff
+      internalID: 967289940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-bright-icons-vector-260nw-1227631393_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 49
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884e0d1f00beede45942d2611b9d017d
+      internalID: -862786168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel-art-bright-icons-vector-260nw-1227631393_5: 578042893
+      pixel-art-bright-icons-vector-260nw-1227631393_13: 874046314
+      pixel-art-bright-icons-vector-260nw-1227631393_41: 73077655
+      pixel-art-bright-icons-vector-260nw-1227631393_29: -1104595519
+      pixel-art-bright-icons-vector-260nw-1227631393_7: 1945043701
+      pixel-art-bright-icons-vector-260nw-1227631393_45: -855088020
+      pixel-art-bright-icons-vector-260nw-1227631393_38: 564292077
+      pixel-art-bright-icons-vector-260nw-1227631393_46: 1572634498
+      pixel-art-bright-icons-vector-260nw-1227631393_44: 989850115
+      pixel-art-bright-icons-vector-260nw-1227631393_21: -1976563834
+      pixel-art-bright-icons-vector-260nw-1227631393_15: -1053256353
+      pixel-art-bright-icons-vector-260nw-1227631393_42: -1699831657
+      pixel-art-bright-icons-vector-260nw-1227631393_40: 111658957
+      pixel-art-bright-icons-vector-260nw-1227631393_25: -817984100
+      pixel-art-bright-icons-vector-260nw-1227631393_31: -792301205
+      pixel-art-bright-icons-vector-260nw-1227631393_16: -1482677372
+      pixel-art-bright-icons-vector-260nw-1227631393_11: -687884927
+      pixel-art-bright-icons-vector-260nw-1227631393_47: 967289940
+      pixel-art-bright-icons-vector-260nw-1227631393_3: -1245710079
+      pixel-art-bright-icons-vector-260nw-1227631393_9: -271041778
+      pixel-art-bright-icons-vector-260nw-1227631393_19: -1717753791
+      pixel-art-bright-icons-vector-260nw-1227631393_12: 1151259269
+      pixel-art-bright-icons-vector-260nw-1227631393_22: -1476183874
+      pixel-art-bright-icons-vector-260nw-1227631393_39: 1126177851
+      pixel-art-bright-icons-vector-260nw-1227631393_27: 867908893
+      pixel-art-bright-icons-vector-260nw-1227631393_35: 915972934
+      pixel-art-bright-icons-vector-260nw-1227631393_2: -1698601232
+      pixel-art-bright-icons-vector-260nw-1227631393_6: 1903212767
+      pixel-art-bright-icons-vector-260nw-1227631393_18: 937097693
+      pixel-art-bright-icons-vector-260nw-1227631393_10: -1533341386
+      pixel-art-bright-icons-vector-260nw-1227631393_23: -179480301
+      pixel-art-bright-icons-vector-260nw-1227631393_1: 1973887995
+      pixel-art-bright-icons-vector-260nw-1227631393_33: -1446586031
+      pixel-art-bright-icons-vector-260nw-1227631393_14: -2129939447
+      pixel-art-bright-icons-vector-260nw-1227631393_30: -2124264276
+      pixel-art-bright-icons-vector-260nw-1227631393_4: 1237170290
+      pixel-art-bright-icons-vector-260nw-1227631393_20: -1758153624
+      pixel-art-bright-icons-vector-260nw-1227631393_8: -955678131
+      pixel-art-bright-icons-vector-260nw-1227631393_24: 1136967006
+      pixel-art-bright-icons-vector-260nw-1227631393_28: -1722505854
+      pixel-art-bright-icons-vector-260nw-1227631393_34: -1926405810
+      pixel-art-bright-icons-vector-260nw-1227631393_0: -335591260
+      pixel-art-bright-icons-vector-260nw-1227631393_17: -1087536450
+      pixel-art-bright-icons-vector-260nw-1227631393_48: -862786168
+      pixel-art-bright-icons-vector-260nw-1227631393_26: -2125635364
+      pixel-art-bright-icons-vector-260nw-1227631393_43: 1969378572
+      pixel-art-bright-icons-vector-260nw-1227631393_32: -1671298804
+      pixel-art-bright-icons-vector-260nw-1227631393_36: -44270924
+      pixel-art-bright-icons-vector-260nw-1227631393_37: 1493909232
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

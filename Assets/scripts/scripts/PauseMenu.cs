@@ -3,21 +3,33 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Paused : MonoBehaviour
+public class PauseMenu : MonoBehaviour
 {
-    [SerializeField] private GameObject botonpausa;
+    //[SerializeField] private GameObject botonpausa;
     [SerializeField] private GameObject menupausa;
-    public void Pausa()
-    {
-        Time.timeScale = 0f;
-        botonpausa.SetActive(false);
-        menupausa.SetActive(true);
-    }
+   
+
+
+  
+
+
+     public void Update()
+     {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Time.timeScale = 0f;
+            //botonpausa.SetActive(false);
+            menupausa.SetActive(true);
+        }
+
+        
+     }
+   
 
     public void reanudar()
     {
         Time.timeScale = 1f;
-        botonpausa.SetActive(true);
+        //botonpausa.SetActive(true);
         menupausa.SetActive(false);
     }
         
@@ -28,7 +40,7 @@ public class Paused : MonoBehaviour
         //GameManager.instance.puntuacion = 0;
         SceneManager.LoadScene("TestLevel");
     }
-
+     
     public void Salir()
     {
         SceneManager.LoadScene("MainMenu");
