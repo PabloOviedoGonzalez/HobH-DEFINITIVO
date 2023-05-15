@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
     private int enemyPoints;
     private int enemyKills = 0;
     public int IsPlayerLevelMax = 10;
-    public int Health = 30;
+    public float Health = 30;
 
 
 
