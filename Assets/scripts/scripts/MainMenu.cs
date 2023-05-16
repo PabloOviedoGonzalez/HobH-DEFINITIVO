@@ -20,6 +20,6 @@ public class MainMenu : MonoBehaviour
     // Metodo que nos sirve para cuando pulsamos el boton Start
     public void StartButton()
     {
-        SceneManager.LoadScene("TestLevel");
+        GameManager.instance.ChangeScene("TestLevel");
     }
 }

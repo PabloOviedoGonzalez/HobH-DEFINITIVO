@@ -42,7 +42,11 @@ public class GameManager : MonoBehaviour
 
     public void ChangeScene(string name)
     {
-
+        AudioManager.instance.ClearAudioList();
+        punctuation = 0;
+        enemyPoints = 0;
+        time = 0;
+        enemyKills = 0;
         SceneManager.LoadScene(name);
         
     }

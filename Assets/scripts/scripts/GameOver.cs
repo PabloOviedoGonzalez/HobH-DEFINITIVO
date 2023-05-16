@@ -11,12 +11,12 @@ public class GameOver : MonoBehaviour
         Time.timeScale = 1f;
         //GameManager.instance.time = 0;
         //GameManager.instance.puntuacion = 0;
-        SceneManager.LoadScene("TestLevel");
+        GameManager.instance.ChangeScene("TestLevel");
     }
 
     public void Salir()
     {
-        SceneManager.LoadScene("MainMenu");
+        GameManager.instance.ChangeScene("MainMenu");
     }
 
 }
